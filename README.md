@@ -1,2 +1,2 @@
 # Console_App
-Simple Console interface to practice Command Design Pattern
+Simple Console app with Command design pattern implementation
